@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+    --animate-pulseShadow: pulseShadow 1.5s infinite ease-in-out;
+    --animate-floatLogo: floatLogo 3s infinite ease-in-out;
+
+    @keyframes pulseShadow {
+        0% {
+            box-shadow: 0 0 25px #00afdf;
+        }
+        50% {
+            box-shadow: 0 0 10px #00afdf;
+        }
+        100% {
+            box-shadow: 0 0 25px #00afdf;
+        }
+    }
+
+    @keyframes floatLogo {
+        0% {
+            transform: translate(0px, 0px);
+        }
+        50% {
+            transform: translate(5px, 5px);
+        }
+        100% {
+            transform: translate(0px, 0px);
+        }
+    }
+}
+
+.App {
+    background-image: linear-gradient(
+        180deg,
+        #171814 0.2%,
+        #14093a 10%,
+        #0a051a 50%,
+        #14093a 110%,
+        #0a051a
+    );
+}
+
+body {
+    background-color: #0a051a;
+}
+
+html {
+    font-size: 12.5px;
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 639px) {
+    html {
+        font-size: 10px;
+    }
+}
