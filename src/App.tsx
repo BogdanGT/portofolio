@@ -59,7 +59,7 @@ function Home() {
                 </RevealAnimation>
             </div>
 
-            <div className="h-[100%] sm:py-[150px] max-sm:py-[100px] flex flex-col justify-center sm:bg-[url('https://i.postimg.cc/1RFqP2JV/tech-wallpaper.png')] max-sm:bg-[url('https://i.postimg.cc/Zq0dHx6z/tech-wallpaper-mobile.png')] bg-no-repeat bg-center sm:bg-contain max-sm:bg-contain">
+            <div className="h-[100%] sm:py-[150px] max-sm:py-[100px] flex flex-col justify-center sm:bg-[url('https://i.postimg.cc/2S32ghDr/tech-wallpaper.png')] max-sm:bg-[url('https://i.postimg.cc/Zq0dHx6z/tech-wallpaper-mobile.png')] bg-no-repeat bg-center sm:bg-contain max-sm:bg-contain">
                 <RevealAnimation>
                     <div className="sm:w-full max-sm:w-[80%] block mx-auto">
                         <div className="text-white font-[Poppins] text-center text-[2.7rem] sm:mb-[150px] max-sm:mb-[100px] font-semibold">
@@ -105,7 +105,7 @@ function Home() {
                 </RevealAnimation>
             </div>
 
-            <div className="h-[100%] sm:py-[150px] max-sm:py-[100px] flex flex-col justify-center sm:bg-[url('https://i.postimg.cc/9ff9hfnc/boost-wallpaper.png')] max-sm:bg-[url('https://i.postimg.cc/4xPcqcw8/boost-wallpaper-mobile.png')] bg-no-repeat bg-center sm:bg-contain max-sm:bg-cover">
+            <div className="h-[100%] sm:py-[150px] max-sm:py-[100px] flex flex-col justify-center sm:bg-[url('https://i.postimg.cc/i.postimg.cc/9ff9hfnc/boost-wallpaper.png')] max-sm:bg-[url('https://i.postimg.cc/4xPcqcw8/boost-wallpaper-mobile.png')] bg-no-repeat bg-center sm:bg-contain max-sm:bg-cover">
                 <RevealAnimation>
                     <div className="w-4/5 block mx-auto sm:mb-[200px] max-sm:mb-[150px]">
                         <div className="text-white font-[Poppins] text-center text-[2.7rem] sm:mb-[150px] max-sm:mb-[100px] font-semibold">
