@@ -14,7 +14,7 @@ function Home() {
     return (
         <div className="App">
             <Fade delay={2} triggerOnce>
-                <div className="flex justify-evenly self-center h-[100vh] sm:bg-[url('https://i.postimg.cc/tC2Gb3nc/header-wallpaper-2.png')] bg-no-repeat bg-center bg-[length:100%] max-sm:bg-[url('https://i.postimg.cc/FHz5HYjH/header-wallpaper-mobile-2.png')] max-sm:flex-col max-sm:justify-center max-sm:pb-[10%] ">
+                <div className="flex justify-evenly self-center h-[100vh] sm:bg-[url('https://i.postimg.cc/j5HHXbkm/header-wallpaper-2.png')] bg-no-repeat bg-center bg-[length:100%] max-sm:bg-[url('https://i.postimg.cc/1Xyp7jkt/header-wallpaper-mobile-2.png')] max-sm:flex-col max-sm:justify-center max-sm:pb-[10%] ">
                     <img
                         src="logo.webp"
                         className="sm:w-[20%] sm:max-w-[300px] sm:min-w-[300px] max-sm:w-[50%] max-sm:max-w-[250px] self-center transition-transform animate-floatLogo"
